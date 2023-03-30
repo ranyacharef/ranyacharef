@@ -1,6 +1,39 @@
-### Hi there 👋
+### Hi there, I'm Ranya Charef  👋
+![](https://komarev.com/ghpvc/?username=ranyacharef)
+## I'm a Software Engineer!
+
+
+- 🌱 I’m currently learning everything 
+
+### Connect with me:
+
+
+<a href="https://www.linkedin.com/in/mohaned-benmansour">
+  <img align="left" alt="Ranya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://gitlab.com/mohanedbnmansour">
+  <img align="left" alt="Ranya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
+<a href="https://www.facebook.com/deadlyflourishh">
+  <img align="left" alt="Ranya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/ranyacharef">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranyacharef&show_icons=true&theme=radical&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
 
 <!--
+### Hi there 👋
 **ranyacharef/ranyacharef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
