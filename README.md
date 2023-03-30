@@ -2,14 +2,14 @@
 ![](https://komarev.com/ghpvc/?username=ranyacharef)
 ## I'm a Software Engineer!
 
-
+- 🔭 I’m currently working on Angular / Spring Boot project
 - 🌱 I’m currently learning everything 
 
-### Connect with me:
+### 📫 How to reach me:
 
 
 <a href="https://www.linkedin.com/in/raniacharef">
-  <img align="left" color="white" alt="Ranya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ranya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://https://gitlab.com/Ranyacharef">
   <img align="left" alt="Ranya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
