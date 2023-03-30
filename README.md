@@ -8,13 +8,13 @@
 ### Connect with me:
 
 
-<a href="https://www.linkedin.com/in/mohaned-benmansour">
-  <img align="left" alt="Ranya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/raniacharef">
+  <img align="left" color="white" alt="Ranya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://gitlab.com/mohanedbnmansour">
+<a href="https://https://gitlab.com/Ranyacharef">
   <img align="left" alt="Ranya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://www.facebook.com/deadlyflourishh">
+<a href="https://www.facebook.com/ranya.charef">
   <img align="left" alt="Ranya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
