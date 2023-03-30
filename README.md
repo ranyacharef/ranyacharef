@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 
 - 🔭 I’m currently working on Angular / Spring Boot project
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning new technologies 
 
 ### 📫 How to reach me:
 
