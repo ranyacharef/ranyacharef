@@ -22,7 +22,7 @@
 <br/>
 
 <a href="https://github.com/ranyacharef">
- <img align="center" src="https://github-readme-stats.vercel.app/api?PAT_1&username=ranyacharef&show_icons=true&theme=radical&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?PAT_1&username=ranyacharef&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 
