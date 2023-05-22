@@ -22,7 +22,7 @@
 <br/>
 
 <a href="https://github.com/ranyacharef">
- <img align="center" src="https://github-readme-stats.vercel.app/api?PAT_1&username=ranyacharef&count_private=true" alt="Ranya's github stats"/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 </a>
 
 
