@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Spring Boot / Angular project<br>👯 I’m looking to collaborate on challenging projects<br>🌱 I’m currently learning new technologies : Keycloak, Elasticsearch, Storybook<br>
+🔭 I’m currently working on a Spring Boot / Angular project<br>👯 I’m looking to collaborate on challenging projects<br>🌱 I’m currently learning new technologies <br>
 
 
 # 💻 Tech Stack:
